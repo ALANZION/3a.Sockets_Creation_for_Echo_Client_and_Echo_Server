@@ -16,10 +16,6 @@ Sockets Links.
 
 ## PROGRAM:
 ### Client
-
-### NAME:ALAN ZION H
-### REG NO:212223240004
-```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
