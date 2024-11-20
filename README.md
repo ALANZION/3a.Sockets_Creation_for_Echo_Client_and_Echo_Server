@@ -16,6 +16,7 @@ Sockets Links.
 
 ## PROGRAM:
 ### Client
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
